@@ -1,0 +1,38 @@
+{
+  "tokenStandard": "nft",
+  "number": 3,
+  "symbol": "PBG",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "77pvSUwZ2p83sfGs9uTcK5xsTuaq424bYM1VVDbKdKVx",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "nft_storage",
+  "ruleSet": null,
+  "awsConfig": null,
+  "nftStorageAuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDkxNDUxQkJjNEIyNzM2ODlGOWU0OTE1MTk5ZDU0RTQ1MDIwODBEYkQiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY4ODEzNDUyMjQ1NiwibmFtZSI6IlRlc3RNaW50In0.cwipo_WJvO8Xra5AZIHyCWtI6W7PLxDM76Hs_aW8qpg",
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "botTax": {
+        "value": 0.01,
+        "lastInstruction": true
+      },
+      "startDate": {
+        "date": "2022-10-20 18:00:00 +0000"
+      },
+      "solPayment": {
+        "value": 0.1,
+        "destination": "SWAUYgbj8cZDMCsi15eZLm9PngfnXSkorq66TrgCWRe"
+      }
+    },
+    "groups": null
+  },
+  "maxEditionSupply": null
+}

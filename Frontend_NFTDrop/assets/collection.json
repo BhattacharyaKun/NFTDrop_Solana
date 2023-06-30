@@ -1,0 +1,15 @@
+{
+  "name": "House Collection",
+  "symbol": "PBG",
+  "description": "Collection of houses on the blockchain.",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

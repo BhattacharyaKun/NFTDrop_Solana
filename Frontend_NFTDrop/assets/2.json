@@ -1,0 +1,28 @@
+{
+    "name": "House #3",
+    "symbol": "PBG",
+    "description": "Small Settlement!",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "roof",
+            "value": "wood"
+        },
+        {
+            "trait_type": "story",
+            "value": "one"
+        },
+        {
+            "trait_type": "fancy",
+            "value": "styled"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
